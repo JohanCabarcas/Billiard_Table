@@ -1,5 +1,4 @@
 # Billiard_Table
-
 Implements collision between balls as well as corners of table 
 
 Execution ->Billiard.html
